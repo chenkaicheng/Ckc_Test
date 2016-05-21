@@ -1,6 +1,6 @@
 package com.ckc.test;
 /**  
-* 让我先测试下
+* 可以的
 * @author:Ckc 
 * @project:Ckc_Test
 * @Title: Test
