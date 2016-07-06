@@ -10,6 +10,7 @@ package com.ckc.test;
 */
 public class Test
 {
+	12
 
 }
 
